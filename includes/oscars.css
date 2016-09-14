@@ -1,0 +1,131 @@
+body, table { 
+  background:     #ffffff; /*#fefde8;*/
+  color:      #000000;
+  font-family:    Arial, Helvetica, sans-serif;
+  font-size:    14px;
+}
+
+a {
+  color:      blue;
+  font-family:    Arial, Helvetica, sans-serif;
+  background-color:  transparent;
+  
+}
+
+a:visited {
+  color:    #3333cc;
+}
+
+a:hover {
+  color:    green;
+}
+
+a:active {
+  color:    red;
+}
+
+.left {
+  text-align:    left;
+}
+
+.center {
+  text-align:    center;
+}
+
+.right {
+  text-align:    right;
+}
+
+address {
+  text-align:    right;
+}
+
+h1 {
+  font-family:    courier, sans-serif;
+}
+
+h2 {
+  font-family:    arial, sans-serif;
+  color:      blue;
+  background-color:  transparent;
+}
+
+h3 {
+  font-family:    arial, sans-serif;
+  color:      green;
+  background-color:  transparent;
+}
+
+img {
+  border:      0px;
+}
+
+table.main {
+  width:      90%;
+  margin-left:    5%;
+  margin-right:    5%;  
+  border-collapse:  collapse;
+}
+
+table.head{
+  width:      90%;
+  margin-left:    5%;
+  margin-right:    5%;  
+  border-collapse:  collapse;
+}
+
+bgya{
+  background-image:url('/Users/dhidas/RutgersWebpage/img/Background.jpg');
+  background-repeat:no-repeat;
+  background-position:left top;
+}
+
+table.fill {
+  width:      100%;
+  border-collapse:  collapse;
+}
+
+table.dist{
+  margin:             auto;
+  border-top:         0px dashed #000000;
+  border-bottom:      1px dashed #000000;
+  border-right :      0px dashed #000000;
+  border-left:        0px dashed #000000;
+  padding:            4px;
+}
+
+
+td.disthead{
+  text-align:    center;
+  border-bottom:    2px dashed #000000;
+  border-top:       2px dashed #000000;
+  padding:    4px;
+}
+
+
+
+td.dist{
+  border-top-width:  0px;
+  border-right-width:  0px;
+  border-bottom:    1px dashed #000000;
+  border-left-width:  0px;
+  padding:    4px;
+}
+
+
+
+td.logins {
+  border-top-width:  0px;
+  border-right-width:  0px;
+  border-bottom:    1px dashed #0000ff;
+  border-left-width:  0px;
+  padding:    4px;
+}
+
+img.right {
+  float:      right;
+}
+
+pre {
+  font-family:    courier, arial, sans-serif;
+}
