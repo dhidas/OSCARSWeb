@@ -5,26 +5,6 @@
 
 
 
-<h4>Source Distributions</h4>
-<p>
-Complete source and documentation are available in tgz and zip formats for all distributions.  You can also download the latest development source code from the OSCARS repository directly at <a href="http://github.com/dhidas/OSCARS">http://github.com/dhidas/OSCARS</a>.
-</p>
-
-<table class="dist">
-  <tr>
-    <td colspan=2 class="disthead">Source - v1.00.00</td>
-  </tr>
-  <tr>
-    <td>Source .tgz</td><td><a href="download/v1.00.00/source/OSCARS.tgz">v1.00.00.tgz</a></td>
-  </tr>
-  <tr>
-    <td>Source .zip</td><td><a href="download/v1.00.00/source/OSCARS.zip">v1.00.00.zip</a></td>
-  </tr>
-</table>
-
-
-
-
 <h4>Binary Distributions</h4>
 <p>
 Binary distributions are available for Windows (64-bit), OS X, and Linux (x86_64).
@@ -44,6 +24,26 @@ Binary distributions are available for Windows (64-bit), OS X, and Linux (x86_64
     <td>Windows 64-bit</td><td><a href="download/v1.00.00/win/OSCARS.zip">v1.00.00.tgz</a></td>
   </tr>
 </table>
+
+
+
+<h4>Source Distributions</h4>
+<p>
+Complete source and documentation are available in tgz and zip formats for all distributions.  You can also download the latest development source code from the OSCARS repository directly at <a href="http://github.com/dhidas/OSCARS">http://github.com/dhidas/OSCARS</a>.
+</p>
+
+<table class="dist">
+  <tr>
+    <td colspan=2 class="disthead">Source - v1.00.00</td>
+  </tr>
+  <tr>
+    <td>Source .tgz</td><td><a href="download/v1.00.00/source/OSCARS.tgz">v1.00.00.tgz</a></td>
+  </tr>
+  <tr>
+    <td>Source .zip</td><td><a href="download/v1.00.00/source/OSCARS.zip">v1.00.00.zip</a></td>
+  </tr>
+</table>
+
 
 
 
