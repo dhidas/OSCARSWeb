@@ -19,14 +19,19 @@ OSCARS is a modern code for the computation of radiative properties of charged p
 
 <h4>Advantages of OSCARS</h4>
 <ul>
-  <li>It is free, flexible, and supported.</li>
+  <li>Accurate calculation with user defined precision.</li>
+  <li><b>Multi-threaded</b> and <b>GPU</b> enabled for <em>extremely</em> fast calculation.</li>
+  <li>Designed with very large scale computing in mind.</li>
+  <li>Simple and very powerful python API (application program interface).</li>
+  <li>100% Open Source.</li>
+  <li>We welcome feedback and contributions.</li>
 </ul>
 <p>
 The core of OSCARS is written in modern c++ for speed with a simple python user interface.  No additional packages are required to run the core of OSCARS.  One can easily run OSCARS on their desktop or laptop computer.  It also comes with utilities to use MPI for your local machine and cluster usage.  Significant gains are achieved through the use of graphical processing units (GPUs) and OSCARS makes this very easy for compatible nvidia GPUs.  OSCARS was also designed with very large scale computing in mind and easily runs on "the cloud" and such facilities as the <a href="http://opensciencegrid.org">Open Science Grid</a>.
 </p>
 
 <p>
-OSCARS is also intended to be an open source and community based project with contributions from anyone willing and able regardless of institution or position.  We also encourage user feedback in order to continually improve the ease of use and calculations within.  If you are interested in contributing or giving us feedback, please email us at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a> or visit the <a href="forum.php">fourm</a>.
+OSCARS is also intended to be an open source and community based project with contributions from anyone willing and able regardless of institution or position.  We also encourage user feedback in order to continually improve the ease of use and calculations within.  If you are interested in contributing or giving us feedback, please email us at <a href="mailto:dhidas@bnl.gov">dhidas@bnl.gov</a> or visit the <a href="forum.php">fourm</a>.
 </p>
 
 

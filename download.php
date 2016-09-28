@@ -3,8 +3,11 @@
 
 <h3>Download</h3>
 
+<p>
+We are currently working with the BNL legal office and DOE for public distribution approval, which is expected shortly.
+</p>
 
-
+<!--
 <h4>Binary Distributions</h4>
 <p>
 Binary distributions are available for Windows (64-bit), OS X, and Linux (x86_64).
@@ -60,7 +63,7 @@ git clone https://github.com/dhidas/OSCARS
 <p>
 <a href="https://github.com/dhidas/OSCARS">https://github.com/dhidas/OSCARS</a>
 </p>
-
+-->
 
 
 
