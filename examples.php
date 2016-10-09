@@ -2,10 +2,12 @@
 
 <h3>Examples</h3>
 
-<p>
+<p align="center">
+<img src="img/Flux_dipole.png" alt="Flux from dipole example" /><br />
+Example flux calculation 400 x 2000 pixels on 2015 mackbook in &lt; 60s
 </p>
 
-
+<!--
 <table class="center" cellpadding=4 cellspacing=4>
   <tr>
     <td colspan=5><b>Trajectory Examples</b></td>
@@ -32,7 +34,7 @@
     <td><a href="examples/Example_Electron_Trajectory_Dipole.cc">.cc</a></td>
   </tr>
 </table>
-
+-->
 
 
 

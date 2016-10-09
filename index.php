@@ -31,7 +31,7 @@ The core of OSCARS is written in modern c++ for speed with a simple python user 
 </p>
 
 <p>
-OSCARS is also intended to be an open source and community based project with contributions from anyone willing and able regardless of institution or position.  We also encourage user feedback in order to continually improve the ease of use and calculations within.  If you are interested in contributing or giving us feedback, please email us at <a href="mailto:dhidas@bnl.gov">dhidas@bnl.gov</a> or visit the <a href="forum.php">fourm</a>.
+OSCARS is also intended to be an open source and community based project with contributions from anyone willing and able regardless of institution or position.  We also encourage user feedback in order to continually improve the ease of use and calculations within.  If you are interested in contributing or giving us feedback, please email at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
 </p>
 
 

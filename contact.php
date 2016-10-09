@@ -4,16 +4,22 @@
 <h3>Contact</h3>
 
 
+<h4>For our release information</h4>
+<p>
+If you wish to receive information regarding releases please sign up for the <a href="form.php">mailing list</a>.
+</p>
+
+
 <h4>For help using or installing</h4>
 <p>
-Please make use of the <a href="http://asdasdasdasd.com">help fourms</a> or email us directly at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
+Please email us directly at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.  Soon there will be a forum for help and discussion.  Please check back shortly.
 </p>
 
 
 
 <h4>For interest in development</h4>
 <p>
-All community contributions are welcome as long as they both fit the scope of the project as well as abide by some basic coding conventions and are thoroughly tested.  All development is done using the github.com tools and fourms.  We also recommend getting in touch with us first to coordinate efforts by sending an email to <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
+All community contributions are welcome as long as they both fit the scope of the project as well as abide by some basic coding conventions and are thoroughly tested.  All development is done using the github.com tools and forums.  We also recommend getting in touch with us first to coordinate efforts by sending an email to <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
 </p>
 
 

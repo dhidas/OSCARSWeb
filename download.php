@@ -7,6 +7,43 @@
 We are currently working with the BNL legal office and DOE for public distribution approval, which is expected shortly.
 </p>
 
+
+<h4>For release information</h4>
+<p>
+If you wish to receive information regarding releases please sign up for the <a href="form.php">mailing list</a>.
+</p>
+
+<hr>
+<hr>
+
+
+<h4>Installation Instructions</h4>
+<h5>os x - binary</h5>
+<pre>
+tar zxf oscars-1.32.00-osx10.11.tgz
+cd oscars-1.32.00
+python python/setup.py install
+</pre>
+
+<h5>linux / os x - source</h5>
+<pre>
+tar zxf oscars-1.32.00-[SYSTEM].tgz
+cd oscars-1.32.00
+python python/setup.py build
+python python/setup.py install
+</pre>
+
+Otherwise, if you are python savvy, all you really need is to unpack and make sure OSCARS.so and the other python modules are in your path:
+<pre>
+import sys
+sys.path.append('path/where/so/file/lives')
+sys.path.append('path/where/py/file/lives')
+</pre>
+
+
+
+
+
 <!--
 <h4>Binary Distributions</h4>
 <p>
