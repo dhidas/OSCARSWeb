@@ -2,7 +2,7 @@
 
 
 
-<h3>Frequently Asked Questions</h3>
+<h3>Frequently Asked Questions and/or Curiosities</h3>
 
 
 <h5>On Citation and Authorship</h5>
@@ -13,7 +13,7 @@ If you use OSCARS for any purpose you should not list us as authors of your work
 
 <h5>On Scientific Work</h5>
 <p>
-There are neither copyright nor licensing restrictions or results which you produce work OSCARS.  You are free to publish and distribute this derived material.
+There are neither copyright nor licensing restrictions on results which you produce with OSCARS.  You are free to publish and distribute this derived material.
 </p>
 
 

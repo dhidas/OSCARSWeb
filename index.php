@@ -20,7 +20,7 @@ OSCARS is a modern code for the computation of radiative properties of charged p
 <h4>Advantages of OSCARS</h4>
 <ul>
   <li>Accurate calculation with user defined precision.</li>
-  <li><b>Multi-threaded</b> and <b>GPU</b> enabled for <em>extremely</em> fast calculation.</li>
+  <li><b>Multi-threaded</b> and capable of using your <b>GPU</b>.</li>
   <li>Designed with very large scale computing in mind.</li>
   <li>Simple and very powerful python API (application program interface).</li>
   <li>100% Open Source.</li>
@@ -31,7 +31,7 @@ The core of OSCARS is written in modern c++ for speed with a simple python user 
 </p>
 
 <p>
-OSCARS is also intended to be an open source and community based project with contributions from anyone willing and able regardless of institution or position.  We also encourage user feedback in order to continually improve the ease of use and calculations within.  If you are interested in contributing or giving us feedback, please email at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
+OSCARS is also intended to be an open source and community based project with contributions from anyone willing and able regardless of institution or position.  We also encourage user feedback in order to continually improve the ease of use and calculations within.  If you are interested in contributing or giving us feedback, please send an email to <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
 </p>
 
 
