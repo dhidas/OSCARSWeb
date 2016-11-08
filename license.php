@@ -6,15 +6,13 @@
 
 
 <p>
-Public release is forthcoming.  When this happens, license information will be found here.
+Below is the text of the most recent license.
 <p>
 
 
-
-
-
-
-
+<pre>
+<?php include("LICENSE.txt"); ?>
+</pre>
 
 
 <?php include("includes/footer.html"); ?>

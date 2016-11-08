@@ -4,11 +4,7 @@
 <h3>Download</h3>
 
 <p>
-UPDATE (12 October 2016): We have just received DOE approval for release and are working on finalizing the license and remaining ESTC documents.
-</p>
-
-<p>
-<b>First Release Date: <font color="red">16 Noovember 2016</font></b>
+<b>First Release Date: <font color="red">16 November 2016</font></b>
 </p>
 
 <h4>For release information</h4>
@@ -18,6 +14,9 @@ If you wish to receive information regarding releases please sign up for the <a 
 
 <hr>
 
+<p>
+Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, and CC is reserved for bug-fixes and other very small changes.  Odd numbered BB are reserved for development versions.
+</p>
 
 <table class="left" width="500">
   <tr>
