@@ -4,7 +4,7 @@
 <h3>Download</h3>
 
 <p>
-<b>First Release Date: <font color="red">1 December 2016</font></b>
+NOTE: If you are within bnl.gov you can try the OSCARS test area at <a href="http://id01.nsls2.bnl.gov">http://id01.nsls2.bnl.gov</a>.
 </p>
 
 <h4>For release information</h4>

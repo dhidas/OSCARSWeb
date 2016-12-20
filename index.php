@@ -1,7 +1,6 @@
 <?php include("includes/header.html"); ?>
 
 
-
 <h3>Home</h3>
 
 
