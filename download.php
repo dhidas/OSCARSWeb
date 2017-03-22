@@ -4,7 +4,7 @@
 <h3>Download</h3>
 
 <p>
-<b>First Release Date: <font color="red">1 December 2016</font></b>
+NOTE: If you are within bnl.gov you can try the OSCARS test area at <a href="http://id01.nsls2.bnl.gov">http://id01.nsls2.bnl.gov</a>.
 </p>
 
 <h4>For release information</h4>
@@ -26,8 +26,8 @@ Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, an
   </tr>
   <tr>
     <td>Current release</td>
-    <td><a href="download/1.32.00/">1.32.00</a></td>
-    <td>2016.12.01</td>
+    <td><a href="download/1.34.00/">1.34.00</a></td>
+    <td>2017.01.05</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -36,8 +36,8 @@ Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, an
   </tr>
   <tr>
     <td>Past releases</td>
-    <td></td>
-    <td></td>
+    <td><a href="download/1.32.00/">1.32.00</a></td>
+    <td>2016.12.01</td>
   </tr>
 </table>
 

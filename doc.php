@@ -16,7 +16,7 @@ For documentation on installation please see the <a href="download.php">download
 <table class="left" width="300">
   <tr>
     <td width="50%"><b>Current release</b></td>
-    <td width="50%"><a target="_blank" href="doc/1.32.00">1.32.00</a></td>
+    <td width="50%"><a target="_blank" href="doc/1.34.00">1.34.00</a></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -24,7 +24,7 @@ For documentation on installation please see the <a href="download.php">download
   </tr>
   <tr>
     <td><b>Past releases</b></td>
-    <td></td>
+    <td width="50%"><a target="_blank" href="doc/1.32.00">1.32.00</a></td>
   </tr>
 </table>
 
