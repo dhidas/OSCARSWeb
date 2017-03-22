@@ -3,6 +3,11 @@
 
 <h3>Home</h3>
 
+<p>
+<font color="red">
+Latest release: 2017.01.05 - <a href="download/1.34.00">1.34.00</a>
+</font>
+</p>
 
 <p>
 OSCARS is a modern code for the computation of radiative properties of charged particles in electromagnetic fields.  OSCARS is capable of calculating spectra, flux, and power densities for arbitrary field configurations, multi-particle and mixed-particle beams, with user configurable precision.  Notably, OSCARS is capable of calculating flux and power density distributions on arbitrary shaped surfaces in 3-D.

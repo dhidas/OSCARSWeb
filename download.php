@@ -26,8 +26,8 @@ Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, an
   </tr>
   <tr>
     <td>Current release</td>
-    <td><a href="download/1.32.00/">1.32.00</a></td>
-    <td>2016.12.01</td>
+    <td><a href="download/1.34.00/">1.34.00</a></td>
+    <td>2017.01.05</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -36,8 +36,8 @@ Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, an
   </tr>
   <tr>
     <td>Past releases</td>
-    <td></td>
-    <td></td>
+    <td><a href="download/1.32.00/">1.32.00</a></td>
+    <td>2016.12.01</td>
   </tr>
 </table>
 
