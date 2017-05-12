@@ -1,5 +1,16 @@
 <?php include("includes/header.html"); ?>
 
+<h3>Installation</h3>
+<p>
+The easiest way to install or upgrade oscars is with pip:
+</p>
+<pre>
+pip install oscars -U
+</pre>
+
+<p>
+If you want to use the GPU tools or download for development please follow the instructions for each release below.
+</p>
 
 <h3>Download</h3>
 
