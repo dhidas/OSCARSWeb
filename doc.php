@@ -1,10 +1,6 @@
 <?php include("includes/header.html"); ?>
 
 <h3>Documentation</h3>
-<p>
-Documentation for the python API is forthcoming.
-</p>
-
 
 <p>
 Documentation is versioned according to release number.  Find your version below.
