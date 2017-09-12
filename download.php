@@ -36,14 +36,15 @@ Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, an
     <th width="30%">Date: yyyy.mm.dd</th>
   </tr>
   <tr>
-    <td>Current release</td><td><a href="download/1.36.12/">1.36.12</a></td><td>2017.05.18</td>
+    <td>Current release</td><td><a href="download/1.36.14/">1.36.14</a></td><td>2017.09.12</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td></td>
     <td></td>
   </tr>
-  <tr><td>Past release</td><td><a href="download/1.34.00/">1.34.00</a></td><td>2017.01.05</td></tr>
+  <tr><td>Past release</td><td><a href="download/1.36.12/">1.36.12</a></td><td>2017.05.18</td></tr>
+  <tr><td></td><td><a href="download/1.34.00/">1.34.00</a></td><td>2017.01.05</td></tr>
   <tr><td></td><td><a href="download/1.32.00/">1.32.00</a></td><td>2016.12.01</td></tr>
 </table>
 
