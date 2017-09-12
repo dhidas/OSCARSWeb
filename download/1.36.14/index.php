@@ -67,6 +67,30 @@ python setup.py install
 
 
 
+<h4>Installation with GPU</h4>
+<p>
+First you need to install nvcc from: <a href="https://developer.nvidia.com/cuda-downloads">https://developer.nvidia.com/cuda-downloads</a>.
+</p>
+
+<p>
+Once you have the nvcc compiler installed you can
+</p>
+
+<pre>
+# Download OSCARS
+git clone https://github.com/dhidas/OSCARS -b 1.36.14
+
+# Compile and install
+make
+python setup_gpu.py install
+</pre>
+
+<p>
+The make uses nvcc to compile the library which uses CUDA.  Then setup_gpu.py uses the python setuptools to compile, link the cuda library, and install.  Of course it is advised to do this in a conda envirnment as above, but not required
+</p>
+
+
+
 <h4>Binary Distributions</h4>
 <p>
 Binary distributions which include GPU capability are coming soon.  If you would like to request a platform please send an email to <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>
