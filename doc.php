@@ -21,10 +21,10 @@ For documentation on installation please see the <a href="download.php">download
   <tr>
     <td><b>Past releases</b></td>
     <td><a target="_blank" href="doc/1.36.12">1.36.12</a></td><td width="10%">2017.05.18</a></td>
-    <td><a target="_blank" href="doc/1.34.00">1.34.00</a></td><td>2017.01.05</td>
   </tr>
   <tr>
     <td></td>
+    <td><a target="_blank" href="doc/1.34.00">1.34.00</a></td><td>2017.01.05</td>
     <td><a target="_blank" href="doc/1.32.00">1.32.00</a></td><td>2016.12.01</td>
   </tr>
 </table>
