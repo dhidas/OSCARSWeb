@@ -9,7 +9,7 @@ Documentation is versioned according to release number.  Find your version below
 For documentation on installation please see the <a href="download.php">download</a> section.
 </p>
 
-<table class="left" width="500">
+<table class="left" width="300">
   <tr>
     <td width="50%"><b>Current release</b></td>
     <td width="40%"><a target="_blank" href="doc/1.36.xx">1.36.14</a></td><td width="10%">2017.09.12</a></td>
