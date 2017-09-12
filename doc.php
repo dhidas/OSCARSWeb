@@ -25,7 +25,7 @@ For documentation on installation please see the <a href="download.php">download
   </tr>
   <tr>
     <td></td>
-    <td><a target="_blank" href="doc/1.32.00">1.32.00</a></td><td>2016.11.16</td>
+    <td><a target="_blank" href="doc/1.32.00">1.32.00</a></td><td>2016.12.01</td>
   </tr>
 </table>
 
