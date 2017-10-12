@@ -5,7 +5,7 @@
 
 <p>
 <font color="red">
-Latest release: 2017.09.12 - <a href="download/1.36.14">1.36.14</a>
+Latest release: 2017.10.11 - <a href="download/2.00.02">2.00.02</a>
 </font>
 </p>
 

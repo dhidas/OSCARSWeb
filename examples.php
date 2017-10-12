@@ -42,6 +42,12 @@ These examples contain the most basics elements of OSCARS to get started quickly
     <td><a href="examples/GettingStarted_Undulator3DPowerDensity.py">.py</a></td>
   </tr>
   <tr>
+    <td width="300">Undulator 3D Power Density CAD Surface</td>
+    <td><a href="examples/GettingStarted_Undulator3DPowerDensity_CAD.html">.html</a></td>
+    <td><a href="examples/GettingStarted_Undulator3DPowerDensity_CAD.ipynb">.ipynb</a></td>
+    <td><a href="examples/GettingStarted_Undulator3DPowerDensity_CAD.py">.py</a></td>
+  </tr>
+  <tr>
     <td width="300">Importing Field Data</td>
     <td><a href="examples/GettingStarted_ImportingFieldData.html">.html</a></td>
     <td><a href="examples/GettingStarted_ImportingFieldData.ipynb">.ipynb</a></td>
