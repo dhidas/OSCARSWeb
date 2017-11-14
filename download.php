@@ -26,7 +26,7 @@ If you wish to receive information regarding releases please sign up for the <a 
 <hr>
 
 <p>
-Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, and CC is reserved for bug-fixes and other very small changes.  Odd numbered BB are reserved for development versions.
+Releases are versioned A.B.C, where A is the major, B the minor version, and C is reserved for bug-fixes and other very small changes.  Odd numbered BB are reserved for development versions.
 </p>
 
 <table class="left" width="500">
@@ -36,14 +36,15 @@ Releases are versioned AA.BB.CC, where AA is the major, BB the minor version, an
     <th width="30%">Date: yyyy.mm.dd</th>
   </tr>
   <tr>
-    <td>Current release</td><td><a href="download/2.00.02/">2.00.02</a></td><td>2017.10.11</td>
+    <td>Current release</td><td><a href="download/2.0.4/">2.0.4</a></td><td>2017.10.27</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td></td>
     <td></td>
   </tr>
-  <tr><td>Past release</td><td><a href="download/1.36.14/">1.36.14</a></td><td>2017.09.12</td></tr>
+  <tr><td>Past release</td><td><a href="download/2.00.04/">2.00.04</a></td><td>2017.10.11</td></tr>
+  <tr><td></td><td><a href="download/1.36.14/">1.36.14</a></td><td>2017.09.12</td></tr>
   <tr><td></td><td><a href="download/1.36.12/">1.36.12</a></td><td>2017.05.18</td></tr>
   <tr><td></td><td><a href="download/1.34.00/">1.34.00</a></td><td>2017.01.05</td></tr>
   <tr><td></td><td><a href="download/1.32.00/">1.32.00</a></td><td>2016.12.01</td></tr>
