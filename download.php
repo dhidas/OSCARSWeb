@@ -12,6 +12,11 @@ pip install oscars
 GPU utilities are available in the os x and windows binaries.  Currently trying to package oscars with cuda for pypi under manylinux1, but for the meantime send us an email if you want the GPU utilities on linux.
 </p>
 
+<h3>Docker</h3>
+<p>
+A docker image (<a href="https://hub.docker.com/r/dhidas/oscars/">dhidas/oscars</a>) is available.  For more information please <a href="docker.php">see here</a>.
+
+
 <h3>Download</h3>
 
 <p>
