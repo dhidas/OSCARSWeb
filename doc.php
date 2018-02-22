@@ -12,7 +12,7 @@ For documentation on installation please see the <a href="download.php">download
 <table class="left" width="300">
   <tr>
     <td width="50%"><b>Current release</b></td>
-    <td width="40%"><a target="_blank" href="doc/2.00.xx">2.0.12</a></td><td width="10%">2018.01.19</a></td>
+    <td width="40%"><a target="_blank" href="doc/2.00.xx">2.0.20</a></td><td width="10%">2018.02.20</a></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -20,6 +20,10 @@ For documentation on installation please see the <a href="download.php">download
   </tr>
   <tr>
     <td><b>Past releases</b></td>
+    <td width="40%"><a target="_blank" href="doc/2.00.xx">2.0.12</a></td><td width="10%">2018.01.19</a></td>
+  </tr>
+  <tr>
+    <td></td>
     <td width="40%"><a target="_blank" href="doc/2.00.xx">2.0.6</a></td><td width="10%">2017.12.04</a></td>
   </tr>
   <tr>
