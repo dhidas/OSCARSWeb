@@ -19,8 +19,9 @@ A docker image (<a href="https://hub.docker.com/r/dhidas/oscars/">dhidas/oscars<
 
 <h3>Download</h3>
 
+<h4>Source Code</h4>
 <p>
-NOTE: If you are within bnl.gov you can try the OSCARS test area at <a href="http://id01.nsls2.bnl.gov">http://id01.nsls2.bnl.gov</a>.
+The latest source for production and development is available at: <a href="https://github.com/dhidas/OSCARS">https://github.com/dhidas/OSCARS</a>
 </p>
 
 <h4>For release information</h4>
