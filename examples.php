@@ -106,6 +106,13 @@ These examples contain more realistic scenarios and explanations
     <td></td>
   </tr>
   <tr>
+    <td>007 Importing Trajectories</td>
+    <td><a href="examples/Example_007_ImportingTrajectories.html">.html</a></td>
+    <td><a href="examples/Example_007_ImportingTrajectories.ipynb">.ipynb</a></td>
+    <td><a href="examples/Example_007_ImportingTrajectories.py">.py</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>022 Undulator Spectrum</td>
     <td><a href="examples/Example_022_UndulatorSpectrum.html">.html</a></td>
     <td><a href="examples/Example_022_UndulatorSpectrum.ipynb">.ipynb</a></td>

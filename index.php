@@ -5,12 +5,12 @@
 
 <p>
 <font color="red">
-Latest release: 2018.02.20 - <a href="download/2.0.x">2.0.20</a>
+Latest release: 2018.05.01 - <a href="download/2.1.x">2.1.0</a>
 </font>
 </p>
 
 <p>
-OSCARS is a modern code for the computation of radiative properties of charged particles in electromagnetic fields.  OSCARS is capable of calculating spectra, flux, and power densities for arbitrary field configurations, multi-particle and mixed-particle beams, with user configurable precision.  Notably, OSCARS is capable of calculating flux and power density distributions on arbitrary shaped surfaces in 3-D.
+OSCARS is a modern code for the computation of radiative properties of charged particles in electromagnetic fields.  OSCARS is capable of calculating spectra, flux, and power densities for arbitrary field configurations, multi-particle and mixed-particle beams, with user configurable precision.  Notably, OSCARS is capable of calculating flux and power density distributions on arbitrary shaped surfaces in 3-D.  It also accepts time-dependent electric and magnetic fields as input.
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ OSCARS is a modern code for the computation of radiative properties of charged p
 <ul>
   <li>Accurate calculation with user defined precision.</li>
   <li><b>Multi-threaded</b> and capable of using your <b>GPU</b>.</li>
+  <li>Input of time dependent fields.</li>
   <li>Designed with very large scale computing in mind.</li>
   <li>Simple and very powerful python API (application program interface).</li>
   <li>100% Open Source.</li>
