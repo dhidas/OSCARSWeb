@@ -12,7 +12,7 @@ If you wish to receive information regarding releases please sign up for the <a 
 
 <h4>For help using or installing</h4>
 <p>
-Please email us directly at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.  Soon there will be a forum for help and discussion.  Please check back shortly.
+Please email us directly at <a href="mailto:oscars@bnl.gov">oscars@bnl.gov</a>.
 </p>
 
 
