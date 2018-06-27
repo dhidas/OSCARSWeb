@@ -43,14 +43,15 @@ Releases are versioned A.B.C, where A is the major, B the minor version, and C i
     <th width="30%">Date: yyyy.mm.dd</th>
   </tr>
   <tr>
-    <td>Current release</td><td><a href="download/2.1.x/">2.1.2</a></td><td>2018.06.22</td>
+    <td>Current release</td><td><a href="download/2.1.x/">2.1.8</a></td><td>2018.06.27</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td></td>
     <td></td>
   </tr>
-  <tr><td>Past release</td><td><a href="download/2.0.x/">2.1.0</a></td><td>2018.05.01</td></tr>
+  <tr><td>Past release</td><td><a href="download/2.0.x/">2.1.2</a></td><td>2018.06.22</td></tr>
+  <tr><td></td><td><a href="download/2.0.x/">2.1.0</a></td><td>2018.05.01</td></tr>
   <tr><td></td><td><a href="download/2.0.x/">2.0.20</a></td><td>2018.02.20</td></tr>
   <tr><td></td><td><a href="download/2.0.x/">2.0.12</a></td><td>2018.01.19</td></tr>
   <tr><td></td><td><a href="download/2.0.x/">2.0.6</a></td><td>2017.12.04</td></tr>
